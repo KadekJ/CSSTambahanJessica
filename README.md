@@ -23,3 +23,5 @@ latihan 11
 ![alt text](https://github.com/KadekJ/CSSTambahanJessica/blob/master/latihan%2011.jpg)
 praktikum
 ![alt text](https://github.com/KadekJ/CSSTambahanJessica/blob/master/praktikum.jpg)
+file index
+![alt text](https://github.com/KadekJ/CSSTambahanJessica/blob/master/fileIndex1.jpg)
